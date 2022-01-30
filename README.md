@@ -11,4 +11,4 @@ pip install djangorestframework
 
 You will frist create a model, then serialize it using rest_framework serializers. Next you add that to your viewsets and link it to the routers. 
 
-You can both GET and POST data from/to the queryset.             
+You can both GET and POST data from/to the queryset.
